@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+outputs/
+inputs/
+__pycache__/
+*.partial
+public/images/*.otf
