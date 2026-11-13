@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "understanding-before-treatment",
+      "name": "让理解，走在矫正之前",
+      "version": "1.0.0",
+      "entry": "video.py",
+      "outputPattern": "DeepSmile-合作视频-{clinicName}.mp4"
+    }
+  ]
+}

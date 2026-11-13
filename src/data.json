@@ -1,0 +1,217 @@
+{
+  "total": 1962,
+  "shots": [
+    {
+      "id": "opening",
+      "from": 0,
+      "duration": 264
+    },
+    {
+      "id": "intro",
+      "from": 264,
+      "duration": 186
+    },
+    {
+      "id": "profile",
+      "from": 450,
+      "duration": 108
+    },
+    {
+      "id": "imaging",
+      "from": 558,
+      "duration": 150
+    },
+    {
+      "id": "dental",
+      "from": 708,
+      "duration": 138
+    },
+    {
+      "id": "connect",
+      "from": 846,
+      "duration": 168
+    },
+    {
+      "id": "difficulty",
+      "from": 1014,
+      "duration": 336
+    },
+    {
+      "id": "plan",
+      "from": 1350,
+      "duration": 354
+    },
+    {
+      "id": "decision",
+      "from": 1704,
+      "duration": 108
+    },
+    {
+      "id": "closing",
+      "from": 1812,
+      "duration": 150
+    }
+  ],
+  "captions": [
+    {
+      "from": 3,
+      "duration": 48,
+      "text": "矫正前，你想知道的，"
+    },
+    {
+      "from": 51,
+      "duration": 52,
+      "text": "不只是牙齿能不能排齐。"
+    },
+    {
+      "from": 111,
+      "duration": 57,
+      "text": "更是：我的问题在哪里？"
+    },
+    {
+      "from": 168,
+      "duration": 83,
+      "text": "矫正难不难？为什么推荐这个方案？"
+    },
+    {
+      "from": 270,
+      "duration": 34,
+      "text": "在示例口腔，"
+    },
+    {
+      "from": 303,
+      "duration": 88,
+      "text": "医生借助DeepSmile数智化诊断报告，"
+    },
+    {
+      "from": 392,
+      "duration": 50,
+      "text": "带你把自己的情况看清楚。"
+    },
+    {
+      "from": 456,
+      "duration": 92,
+      "text": "从侧貌分析，理解面部比例和唇齿关系；"
+    },
+    {
+      "from": 564,
+      "duration": 78,
+      "text": "结合全景片、侧位片的影像与指标，"
+    },
+    {
+      "from": 642,
+      "duration": 53,
+      "text": "了解牙齿和颌骨的情况；"
+    },
+    {
+      "from": 714,
+      "duration": 40,
+      "text": "再通过牙列分析，"
+    },
+    {
+      "from": 754,
+      "duration": 81,
+      "text": "把拥挤、排列和咬合问题逐项呈现。"
+    },
+    {
+      "from": 852,
+      "duration": 41,
+      "text": "这些发现放在一起，"
+    },
+    {
+      "from": 892,
+      "duration": 41,
+      "text": "医生就能向你解释："
+    },
+    {
+      "from": 933,
+      "duration": 36,
+      "text": "你最在意的问题，"
+    },
+    {
+      "from": 969,
+      "duration": 36,
+      "text": "和哪些因素有关。"
+    },
+    {
+      "from": 1020,
+      "duration": 62,
+      "text": "那我的情况，矫正起来难不难？"
+    },
+    {
+      "from": 1090,
+      "duration": 45,
+      "text": "报告参考国家标准，"
+    },
+    {
+      "from": 1135,
+      "duration": 70,
+      "text": "标注病例难度、列出复杂因素。"
+    },
+    {
+      "from": 1213,
+      "duration": 75,
+      "text": "让你听到的不只是“简单”或“复杂”，"
+    },
+    {
+      "from": 1287,
+      "duration": 50,
+      "text": "还能知道，具体难在哪里。"
+    },
+    {
+      "from": 1356,
+      "duration": 53,
+      "text": "理解了这些，再来听方案，"
+    },
+    {
+      "from": 1409,
+      "duration": 31,
+      "text": "就更容易明白。"
+    },
+    {
+      "from": 1447,
+      "duration": 81,
+      "text": "医生会结合检查分析和你的改善期望，"
+    },
+    {
+      "from": 1528,
+      "duration": 71,
+      "text": "讲清楚：这个方案重点解决什么，"
+    },
+    {
+      "from": 1599,
+      "duration": 33,
+      "text": "为什么适合你，"
+    },
+    {
+      "from": 1633,
+      "duration": 62,
+      "text": "以及哪些地方需要提前沟通。"
+    },
+    {
+      "from": 1710,
+      "duration": 44,
+      "text": "从“医生建议我这样做”，"
+    },
+    {
+      "from": 1754,
+      "duration": 47,
+      "text": "到“我明白为什么这样做”。"
+    },
+    {
+      "from": 1818,
+      "duration": 24,
+      "text": "示例口腔，"
+    },
+    {
+      "from": 1842,
+      "duration": 41,
+      "text": "携手DeepSmile。"
+    },
+    {
+      "from": 1892,
+      "duration": 57,
+      "text": "让理解，走在矫正之前。"
+    }
+  ]
+}

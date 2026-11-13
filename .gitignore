@@ -5,3 +5,4 @@ inputs/
 __pycache__/
 *.partial
 public/images/*.otf
+audit.json
